@@ -1,7 +1,7 @@
-There are programs that I wrote while studying a course "Python Programming MOOC 2022".
+These are programs that I wrote while studying a course "Python Programming MOOC 2022".
 The course consists of two global parts: 1) Introduction to Programming, 2) Advanced Course in Programming. The second part ends with my own game project.
 
-There are the topics covered in the course:
+These are the topics covered in the course:
 
 Introduction to Programming (Part 1-7)
 Part 1:
