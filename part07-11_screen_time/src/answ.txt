@@ -1,0 +1,5 @@
+Time period: 01.05.2020-02.05.2020
+Total minutes: 12
+Average minutes: 6.0
+01.05.2020: 2/2/2
+02.05.2020: 2/2/2
